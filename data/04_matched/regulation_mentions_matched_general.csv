@@ -1,0 +1,622 @@
+art_id,entity_text,cdmx_official_name,cdmx_doc_id,match_quality,openai_response
+1D958C03_6,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+50BEA374_15,Reglamento de sesiones y demás normativa necesaria para el cumplimiento del objeto de la presente Ley,,,no_match,NO_MATCH
+660CBA22_45,"Reglamento de los Centros Penitenciarios de Reclusión del
+Distrito Federal",Reglamento de la Ley de Centros Penitenciarios de la Ciudad de Mexico,6D0C4493,safe,MATCH: 6D0C4493
+D61F4C69_2,Reglamento de Construcciones vigentes en la Ciudad de México y demás ordenamientos aplicables,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+D61F4C69_48,Reglamento para este tipo de establecimientos,Reglamento de la Ley de Establecimientos Mercantiles para la Ciudad de Mexico,7566EC96,safe,MATCH: 7566EC96
+D61F4C69_56,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+D61F4C69_100,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+D61F4C69_104,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+69638137_3,Reglamento de la Ley de Protección y Fomento al Empleo para el Distrito Federal,Reglamento de la Ley de Proteccion y Fomento al Empleo para Distrito Federal,69638137,safe,MATCH: 69638137
+E0644EAF_59,Reglamento de Tránsito del Distrito Federal para el procedimiento de arrastre,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+F1B29F7E_9,Reglamento del Consejo así como en la Convocatoria que para tales efectos se emita,,,no_match,NO_MATCH
+3A2C8488_2,Reglamento de Construcciones vigentes en la Ciudad de México y demás ordenamientos aplicables,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+3A2C8488_5BIS,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+3A2C8488_96,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+293D2FA5_46,"Reglamento para el Programa
+de Fomento y Desarrollo Cultural del Distrito Federal",Reglamento de la Ley de Fomento Cultural del Distrito Federal,293D2FA5,safe,MATCH: 293D2FA5
+EDEA48F4_2,Reglamento de para Prevenir y Erradicar de Personas,Reglamento de la Ley para Prevenir y Erradicar la Trata de Personas el Abuso Sexual y la Explotacion Sexual Comercial Infantil para el Distrito Federal,EDEA48F4,safe,MATCH: EDEA48F4
+C57B66D6_100OCTIES,Reglamento para que en la fabricación de los folios se tomen las medidas de seguridad más adecuadas para procurar su,,,no_match,NO_MATCH
+F85A3C2E_3,Reglamento de Construcciones de la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+F85A3C2E_3,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+BD22E724_1,Reglamento para las Unidades Administrativas,,,no_match,NO_MATCH
+BD22E724_1,Reglamento para las Unidades Administrativas de Apoyo Técnico,,,no_match,NO_MATCH
+BD22E724_27,Reglamento de la Ley de Presupuesto y Gasto Eficiente,,,no_match,NO_MATCH
+BD22E724_37,Reglamento de Tránsito del Distrito Federal,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+BD22E724_196,Reglamento de Tránsito y a las distintas Dependencias,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+BD22E724_231,Reglamento del Registro Público de la Propiedad de la Ciudad de México y las demás disposiciones que así lo determi,Reglamento de la Ley Registral para la Ciudad de Mexico,C765C1AD,safe,MATCH: C765C1AD
+BD22E724_324,Reglamento de Verificaciones,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+BC67F2BE_13,reglamento de comportamiento para los integrantes de sus Grupos de Animación,,,no_match,NO_MATCH
+702EE237_165,Reglamento de Archivos del Tribunal y del Consejo de la Judicatura,,,no_match,NO_MATCH
+702EE237_166,Reglamento de Archivos del Tribunal y del Consejo de la Judicatura,,,no_match,NO_MATCH
+E0A07F07_46,Reglamento de ese Organismo,,,no_match,NO_MATCH
+67567B88_52,Reglamento de la materia,,,no_match,NO_MATCH
+67567B88_219,Reglamento de la materia,,,no_match,NO_MATCH
+67567B88_295,reglamento de este ordenamiento,,,no_match,NO_MATCH
+2F07FC1B_54,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_54,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_55,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_55,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_97,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_98,Reglamento del Registro Civil,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_135BIS,Reglamento del Registro Civil del Distrito Federal,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_137,Reglamento del Registro Civil del Distrito Federal,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_138BIS,Reglamento del Registro Civil establecerá los supuestos,Reglamento del Registro Civil de la Ciudad de Mexico,4198B460,safe,MATCH: 4198B460
+2F07FC1B_951,Reglamento del Condominio de que se trate,Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal,1D831B5C,safe,MATCH: 1D831B5C
+AC4167EA_3,Reglamento de la Comisión de Box de la Ciudad de México y el desarrollo de espectáculos públicos de boxeo en la Ci,Reglamento de la Comision Tecnica de Box y el Desarrollo de Espectaculos Publicos de Box en la Ciudad de Mexico,AC4167EA,safe,MATCH: AC4167EA
+B26FC198_2,"Reglamento de la Ley de Asistencia y Prevención de la Violencia Intrafamiliar del Distrito
+Federal",Reglamento de la Ley de Asistencia y Prevension de la Violencia Intrafamiliar del Distrito Federal,B26FC198,safe,MATCH: B26FC198
+D0D23E5F_5,Reglamento de la Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México,,,no_match,NO_MATCH
+D0D23E5F_42BIS,Reglamento de Operación y Funcionamiento del Consejo Judicial,,,no_match,NO_MATCH
+D0D23E5F_70,Reglamento del Servicio Profesional de Carrera y del Programa de Gestión de Desempeño y Desarrollo Humano,Reglamento del Servicio Profesional de Carrera de la Policia de Proximidad de la Ciudad de Mexico,ACACDF9F,safe,MATCH: ACACDF9F
+D0D23E5F_79,Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de Méx,,,no_match,NO_MATCH
+BDDCC357_3,Reglamento de los Centros de Desarrollo Infantil,Reglamento de los Centros de Desarrollo Infantil del Tribunal Superior de Justicia del Distrito Federal,BDDCC357,safe,MATCH: BDDCC357
+BDDCC357_25,Reglamento de la ley y otras disposiciones jurídicas,,,no_match,NO_MATCH
+BDDCC357_45,Reglamento de las Condiciones Generales de Trabajo del Tribunal,,,no_match,NO_MATCH
+76DF7409_4,Reglamento de Operación del COTECIAD Técnico Interno de Administración de Documentos,,,no_match,NO_MATCH
+7566EC96_2,"Reglamento de
+Verificación Administrativa",Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+7566EC96_6,"Reglamento de Verificación
+Administrativa",Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+7566EC96_55,"Reglamento de Construcciones vigente en la Ciudad de México y las Normas
+complementarias correspondientes",Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+5443E289_5,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+A3D6BE07_4,Reglamento de la Ley de Espacios Culturales Independientes,Reglamento de la Ley de Espacios Culturales Independientes de la Ciudad de Mexico,1E1110C3,safe,MATCH: 1E1110C3
+1C73B492_54,Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal,Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+38775BBE_20,Reglamento del Mecanismo que deberá establecer las bases y lineamientos para el eficaz desempeño de sus atribucione,,,no_match,NO_MATCH
+3F714625_106,Reglamento de las y los Diputados integrantes de la o las Comisiones dictaminadoras mediante firma autógrafa o dig,Reglamento del Congreso de la Ciudad de Mexico,3F714625,safe,MATCH: 3F714625
+3F714625_187,Reglamento para las Comisiones que son responsables de la realización sobre los asuntos a su cargo,,,no_match,NO_MATCH
+3F714625_204,Reglamento de Transparencia,Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3F714625_208,Reglamento del Canal de Televisivo,,,no_match,NO_MATCH
+1E876EAF_4,Reglamento de la Ley de Comedores Sociales de la Ciudad de México,,,no_match,NO_MATCH
+71CE1013_29,Reglamento del Congreso para la presentación de una iniciativa,Reglamento del Congreso de la Ciudad de Mexico,3F714625,safe,MATCH: 3F714625
+71CE1013_92,reglamento para el funcionamiento interno de las Comisiones de Participación Comunitaria,Reglamento para el Funcionamiento Interno de los Organos de Representacion Previstos en la Ley de Participacion Ciudadana de la Ciudad de Mexico,0608221F,safe,MATCH: 0608221F
+71CE1013_93,reglamento de las Comisiones de Participación Comunitaria al que hace referencia el Artículo,,,no_match,NO_MATCH
+71CE1013_183,reglamento del Cabildo de la Ciudad y de las Alcaldías regulará lo relativo a la Silla Ciudadana,,,no_match,NO_MATCH
+71CE1013_192,reglamento de funcionamiento interno,Reglamento para el Funcionamiento Interno de los Organos de Representacion Previstos en la Ley de Participacion Ciudadana de la Ciudad de Mexico,0608221F,safe,MATCH: 0608221F
+7C5E7A9B_3,Reglamento de Transito de la Ciudad de México,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+7C5E7A9B_135,Reglamento para las pruebas,,,no_match,NO_MATCH
+F5B39E56_33,reglamento de tránsito vigente,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+F5B39E56_33,Reglamento de Tránsito vigente,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+F5B39E56_34,Reglamento de Tránsito vigente,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+F5B39E56_56QUINQUIES,Reglamento de los Centros Penitenciarios de la Ciudad de México y demás ordenamientos aplicables,Reglamento de la Ley de Centros Penitenciarios de la Ciudad de Mexico,6D0C4493,safe,MATCH: 6D0C4493
+F5B39E56_72,Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana y demás normativa,Reglamento de los Organos Colegiados de Honor y Justicia de la Secretaria de Seguridad Ciudadana de la Ciudad de Mexico,22F74C46,safe,MATCH: 22F74C46
+1845EF43_25,Reglamento de Construcciones considerando de éste lo ceñido en la fracción VIII del artículo,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+E7942A22_4,Reglamento de la Ley de Centros de Atención y Cuidado Infantil para la Ciudad de México,Reglamento de la Ley que Regula el Funcionamiento de los Centros de Atencion y Cuidado Infantil para el Distrito Federal,EE81F662,safe,MATCH: EE81F662
+FB6CCCAE_4,Reglamento de la Ley de los Derechos de Niñas,"Reglamento de la Ley de los Derechos de Ninas, Ninos y Adolescentes de la Ciudad de Mexico",2155A245,safe,MATCH: 2155A245
+98C6B489_4,Reglamento de Sesiones del Consejo General del Instituto Electoral de de México,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal,8AB38F48,safe,MATCH: 8AB38F48
+98C6B489_36,Reglamento de Elecciones,,,no_match,NO_MATCH
+98C6B489_36,Reglamento de Elecciones y demás lineamientos que al efecto emita el Instituto Nacional,,,no_match,NO_MATCH
+98C6B489_36,Reglamento de Elecciones y demás lineamientos que emita el Instituto Nacional,,,no_match,NO_MATCH
+98C6B489_36,Reglamento de Elecciones y demás lineamientos que emita el Instituto Nacional,,,no_match,NO_MATCH
+98C6B489_36,Reglamento de Elecciones y demás lineamientos que emita el Instituto Nacional,,,no_match,NO_MATCH
+98C6B489_50,Reglamento de Elecciones y demás disposiciones que emanen de las leyes locales en la materia,,,no_match,NO_MATCH
+98C6B489_50,Reglamento de Elecciones,,,no_match,NO_MATCH
+98C6B489_66,Reglamento de Sesiones del Consejo General y Comisiones,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal,8AB38F48,safe,MATCH: 8AB38F48
+98C6B489_66,Reglamento de integración y funcionamiento de los Consejos Distritales,"Reglamento de Integracion, Funcionamiento y Sesiones de los Consejos Distritales del Instituto Electoral del Distrito Federal",2833199A,safe,MATCH: 2833199A
+98C6B489_66,Reglamento para el trámite y sustanciación de quejas y procedimientos de investigación,Reglamento para el Tramite y Sustanciacion de Quejas y Procedimientos de Investigacion del Instituto Electoral de la Ciudad de Mexico,AA378A25,safe,MATCH: AA378A25
+98C6B489_66,"Reglamento del Instituto Electoral en materia de Transparencia y Acceso a
+II","Reglamento del Instituto Electoral de la Ciudad de Mexico en materia de Transparencia, Acceso a la Informacion Publica y Rendicion de Cuentas",C0A06B26,safe,MATCH: C0A06B26
+98C6B489_83,Reglamento de Funcionamiento de,,,no_match,NO_MATCH
+98C6B489_83,reglamento de los procesos relativos al personal de la rama administrativa,,,no_match,NO_MATCH
+98C6B489_145,Reglamento de Relaciones Laborales de conformidad con lo dispuesto en el Estatuto del Servicio,,,no_match,NO_MATCH
+98C6B489_213,Reglamento de operación y programa anual de trabajo,,,no_match,NO_MATCH
+98C6B489_322,Reglamento de Fiscalización expedido por el Instituto Nacional,,,no_match,NO_MATCH
+98C6B489_378,Reglamento de Elecciones,,,no_match,NO_MATCH
+98C6B489_399,reglamento del condominio,Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal,1D831B5C,safe,MATCH: 1D831B5C
+A0050486_15,"reglamento de operaciones que fije las normas que regirán la prestación de los
+servicios a terceros y el cumplimie",,,no_match,NO_MATCH
+74FF23BF_7,reglamento de la Ley de Movilidad del Distrito Federal,Reglamento de la Ley de Movilidad de la Ciudad de Mexico,C22DAF01,safe,MATCH: C22DAF01
+C0E713ED_112,Reglamento de la Institución,,,no_match,NO_MATCH
+BA76459A_94QUATER,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+BA76459A_94QUATER,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+BA76459A_94QUATER,Reglamento de construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+BA76459A_106,Reglamento de Construcciones del Distrito Federal y en los Programas ambientales y de desarrollo urbano vigentes,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+E4E904B7_38,Reglamento para el ganado de lidia,Reglamento Taurino para el Distrito Federal,E4E904B7,safe,MATCH: E4E904B7
+E4E904B7_103,Reglamento para las infracciones al público,,,no_match,NO_MATCH
+44022C97_21,reglamento de la materia,,,no_match,NO_MATCH
+44022C97_60,Reglamento para el tipo de licencia o autorización que se haya otorgado,,,no_match,NO_MATCH
+44022C97_68,Reglamento para su operación y funcionamiento,,,no_match,NO_MATCH
+44022C97_177,Reglamento de Construcciones y en sus Normas Técnicas Complementarias vigentes a la fecha de la revisión,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+44022C97_180,Reglamento para las edificaciones nuevas,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+44022C97_189,Reglamento de Tránsito del Distrito Federal,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+44022C97_244,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+44022C97_251,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+4BC0C88C_6,Reglamento del Departamento del Distrito Federal y a las disposiciones que dicte el Jefe del propio Departamento,,,no_match,NO_MATCH
+09ACB34D_4,Reglamento de la Ley de los Derechos Culturales de los Habitantes y Visitantes de la Ciudad de México,,,no_match,NO_MATCH
+44EE672D_2,Reglamento de la Ley de Desarrollo Urbano,Reglamento de la Ley de Desarrollo Urbano del Distrito Federal,483FF7A5,safe,MATCH: 483FF7A5
+44EE672D_2,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+44EE672D_2,Reglamento de Construcciones y Reglamento de Protección Civil,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+44EE672D_3,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+44EE672D_111,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+44EE672D_121,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+2BE6C2B6_47,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+2BE6C2B6_48,Reglamento de Verificación Administrativa y demás ordenamientos legales que apliquen en la materia para el Distrit,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+F0AAC398_2,Reglamento de que Establece el Derecho al Acceso Gratuito a los Servicios Médicos y Medicamentos a las Personas Re,Reglamento de la Ley que Establece el Derecho a los Servicios Medicos y Medicamentos a las Personas Residentes en el Distrito Federal que Carecen de Seguridad Social Laboral,F0AAC398,safe,MATCH: F0AAC398
+604B2E0E_5,Reglamento de la Ley de la Procuraduría Social,Reglamento de la Ley de la Procuraduria Social del Distrito Federal,F5CAFBB3,safe,MATCH: F5CAFBB3
+604B2E0E_13,Reglamento de la Procuraduría Social al Jefe de Gobierno,Reglamento de la Ley de la Procuraduria Social del Distrito Federal,F5CAFBB3,safe,MATCH: F5CAFBB3
+604B2E0E_19,Reglamento de la Procuraduría,Reglamento de la Ley de la Procuraduria Social del Distrito Federal,F5CAFBB3,safe,MATCH: F5CAFBB3
+4C4E2871_20,Reglamento de Transporte del Distrito Federal,,,no_match,NO_MATCH
+C22DAF01_124,Reglamento de Tránsito y el presente Reglamento,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+A04416EA_7,Reglamento para la autorización y publicación correspondiente,,,no_match,NO_MATCH
+A04416EA_56,Reglamento de Lealtad y Disciplina y demás ordenamientos jurídicos y administrativos aplicables a los mismos,,,no_match,NO_MATCH
+A04416EA_83,Reglamento de Lealtad y Disciplina del HCBDF,,,no_match,NO_MATCH
+A04416EA_86,Reglamento de Lealtad y Disciplina,,,no_match,NO_MATCH
+A04416EA_89,Reglamento de Lealtad y Disciplina del HCBDF,,,no_match,NO_MATCH
+A04416EA_90,Reglamento de Lealtad y Disciplina,,,no_match,NO_MATCH
+A04416EA_108,Reglamento de Construcciones y sus Normas Técnicas Complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+A04416EA_108,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+D8F07234_39,Reglamento para la integración y funcionamiento del Consejo de Prevención Social del Delito y la Violencia en el Dis,,,no_match,NO_MATCH
+4EF1658F_66,Reglamento de operación y programa anual de trabajo,,,no_match,NO_MATCH
+4198B460_125,Reglamento de Cementerios,"Reglamento de Cementerios, Crematorios y Servicios Funerarios en la Ciudad de Mexico",B517CD98,safe,MATCH: B517CD98
+D04FE2A2_23,Reglamento para la atención de solicitudes de acceso a la información pública,"Reglamento del Instituto Electoral de la Ciudad de Mexico en materia de Transparencia, Acceso a la Informacion Publica y Rendicion de Cuentas",C0A06B26,safe,MATCH: C0A06B26
+9CC6DE10_2,Reglamento de la Ley de Protección Civil y el Reglamento de Construcciones,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+9CC6DE10_3,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+9CC6DE10_3,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+9CC6DE10_8,Reglamento de Construcciones y demás ordenamientos aplicables,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+9CC6DE10_9,Reglamento de Protección Civil,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+9CC6DE10_12,Reglamento de Protección Civil,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+9CC6DE10_69,Reglamento de la materia,,,no_match,NO_MATCH
+22F74C46_4,Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de M,Reglamento de los Organos Colegiados de Honor y Justicia de la Secretaria de Seguridad Ciudadana de la Ciudad de Mexico,22F74C46,safe,MATCH: 22F74C46
+7B5916CD_68,"Reglamento de la Caja de Previsión de la Policía Preventiva del Distrito
+Federal de fecha",Reglamento de la Ley de la Caja de Privision de la Policia Preventiva del Distrito Federal,7B5916CD,safe,MATCH: 7B5916CD
+4732E043_18,Reglamento de Construcciones y sus normas complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+4732E043_19,Reglamento para las Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+4732E043_23,Reglamento de Construcciones del Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+8AB38F48_2,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal,8AB38F48,safe,MATCH: 8AB38F48
+8AB38F48_15,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal,8AB38F48,safe,MATCH: 8AB38F48
+783C9BC5_3,Reglamento de la Ley de Sociedades Mutualista de la Ciudad de México,,,no_match,NO_MATCH
+AB7E579F_7,reglamento para usuarios de las Bibliotecas,Reglamento de la Ley de Bibliotecas del Distrito Federal,AB7E579F,safe,MATCH: AB7E579F
+955199A7_2,Reglamento de la Ley Orgánica de las Alcaldías de la Ciudad de México,,,no_match,NO_MATCH
+B848E072_8BIS10,reglamento de condóminos y en los contratos de compraventa,Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal,1D831B5C,safe,MATCH: 1D831B5C
+FD7BC6D0_3,Reglamento de la Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad e,Reglamento de la Ley para la Integracion al Desarrollo de las Personas con Discapacidad de la Ciudad de Mexico,91D4E6C7,safe,MATCH: 91D4E6C7
+483FF7A5_13,Reglamento del Comité Técnico de las Áreas de Gestión Estratégica,,,no_match,NO_MATCH
+483FF7A5_151,Reglamento para apoyar la elaboración del Programa General de Desarrollo Urbano y demás trabajos que señalen los ord,Reglamento Del Consejo Para El Desarrollo Urbano Sustentable Del Distrito Federal,E886EA4D,safe,MATCH: E886EA4D
+483FF7A5_154,Reglamento del Consejo de Desarrollo Urbano Sustentable,Reglamento Del Consejo Para El Desarrollo Urbano Sustentable Del Distrito Federal,E886EA4D,safe,MATCH: E886EA4D
+B91AA4E5_4,Reglamento de la Ley de Protección y Fomento al Empleo para la Ciudad de México,Reglamento de la Ley de Proteccion y Fomento al Empleo para Distrito Federal,69638137,safe,MATCH: 69638137
+C24F3487_17,reglamento para el funcionamiento de la misma,,,no_match,NO_MATCH
+C24F3487_19,reglamento de funcionamiento de la Comisión,Reglamento de la Comision Coordinadora del Sistema General de Bienestar Social,E9B771EC,safe,MATCH: E9B771EC
+C24F3487_28,reglamento para el funcionamiento de la Comisión,Reglamento para el Funcionamiento Interno de los Organos de Representacion Previstos en la Ley de Participacion Ciudadana de la Ciudad de Mexico,0608221F,safe,MATCH: 0608221F
+3A1AB6C3_4,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_9,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_20,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_33,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_38,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_42,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_43,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_50,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_55,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_56,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+3A1AB6C3_60,"REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO
+A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN
+PÚBLICA DEL DISTRITO",Reglamento de la Ley de Transparencia y Acceso a la Informacion Publica de la Administracion Publica del Distrito Federal,3A1AB6C3,safe,MATCH: 3A1AB6C3
+F1D0E35F_2,Reglamento de la Ley de la Defensoría Pública del Distrito Federal,Reglamento de la Ley de la Defensoria de Oficio del Fuero Comun en el Distrito Federal,C6C71CA0,safe,MATCH: C6C71CA0
+2923F125_10,Reglamento de la Ley del Servicio Público de Carrera de la Administración Pública del Gobierno de la Ciudad de Méx,,,no_match,NO_MATCH
+492F14DC_2,Reglamento de la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal,,,no_match,NO_MATCH
+7CAEE9BB_2,Reglamento de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal,,,no_match,NO_MATCH
+C4AC6D85_21,Reglamento de Operación de los Archivos de la Sala Superior y General de este Tribunal,,,no_match,NO_MATCH
+C4AC6D85_51,Reglamento para la Práctica de las Visitas a las Salas Ordinarias del Tribunal de Justicia Administrativa de la Ciud,Reglamento Interior del Tribunal de Justicia Administrativa de la Ciudad de Mexico,C4AC6D85,safe,MATCH: C4AC6D85
+A92D78A0_26,Reglamento de la Ley de Desarrollo Urbano y demás disposiciones aplicables,Reglamento de la Ley de Desarrollo Urbano del Distrito Federal,483FF7A5,safe,MATCH: 483FF7A5
+A92D78A0_77,reglamento de la Comisión Metropolitana de la materia,,,no_match,NO_MATCH
+A92D78A0_90,Reglamento de Tránsito y demás disposiciones jurídicas aplicables,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+A92D78A0_110,reglamento para conocer y evaluar la prestación del servicio público encomendado,,,no_match,NO_MATCH
+A92D78A0_155,reglamento de la materia,,,no_match,NO_MATCH
+A92D78A0_202,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+A92D78A0_205,Reglamento de Construcciones del Distrito Federal y en los programas de desarrollo urbano,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+A92D78A0_216,Reglamento de Tránsito las restricciones para la circulación de vehículos de más de dos ejes en la Ciudad,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+A92D78A0_227,Reglamento de tránsito y demás ordenamientos,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+A92D78A0_244,Reglamento del Verificación Administrativa del Distrito Federal y la Ley de Procedimiento Administrativo de la Ciud,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+5439F880_2,Reglamento de Relaciones Laborales,,,no_match,NO_MATCH
+5439F880_2,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral de la Ciudad de México,Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal,8AB38F48,safe,MATCH: 8AB38F48
+5439F880_2,Reglamento de Sustanciación,,,no_match,NO_MATCH
+5439F880_2,Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la,Reglamento para el Tramite y Sustanciacion de Quejas y Procedimientos de Investigacion del Instituto Electoral de la Ciudad de Mexico,AA378A25,safe,MATCH: AA378A25
+5439F880_2,Reglamento de Relaciones Laborales,,,no_match,NO_MATCH
+5439F880_4,Reglamento de Relaciones Laborales y demás normativa aplicable,,,no_match,NO_MATCH
+5439F880_7,Reglamento de Relaciones Laborales y demás normativa aplicable,,,no_match,NO_MATCH
+5439F880_18,Reglamento de Organización y Funcionamiento,,,no_match,NO_MATCH
+5439F880_19,Reglamento de Sustanciación,,,no_match,NO_MATCH
+5439F880_20,Reglamento de Relaciones Laborales y demás normativa aplicable en la materia,,,no_match,NO_MATCH
+5439F880_21,Reglamento de Relaciones Laborales y demás normativa aplicable en materia de horarios,,,no_match,NO_MATCH
+5439F880_32,Reglamento de Relaciones Laborales y demás normativa interna del Instituto Electoral,Reglamento de Fiscalizacion del Instituto Electoral de la Ciudad de Mexico,5A23E031,safe,MATCH: 5A23E031
+5439F880_43,Reglamento de Integración,,,no_match,NO_MATCH
+D6247448_40,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+057212A0_1,Reglamento de la Ley de Cultura Cívica vigente en la Ciudad de México,Reglamento de la Ley de Cultura Civica de la Ciudad de Mexico,C6E9B915,safe,MATCH: C6E9B915
+62CDA32A_50,"Reglamento del Concurso de
+Oposición para los Titulares de las unidades administrativas de la Asamblea Legislativa",,,no_match,NO_MATCH
+62CDA32A_55,reglamento de la Biblioteca,Reglamento de la Ley de Bibliotecas del Distrito Federal,AB7E579F,safe,MATCH: AB7E579F
+62CDA32A_79TER,"Reglamento para el Gobierno Interior de la
+Asamblea y de las normas",Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+62CDA32A_79SEPTIES,Reglamento para el Gobierno Interior,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+62CDA32A_121,"Reglamento para el gobierno Interior y
+tres minutos cuando se trate de puntos de acuerdo conforme a lo establecido e",Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+62CDA32A_121,Reglamento para el Gobierno Interior,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+7A000A5D_15,Reglamento de Verificación Administrativa para el Distrito Federal y el presente Reglamento,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+298E1252_25,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+298E1252_41,Reglamento de cada asociación deportiva,,,no_match,NO_MATCH
+298E1252_58,Reglamento de la materia que corresponda al tipo de Espectáculo público de que se trate,Reglamento de la Ley para la Celebracion de Espectaculos Publicos del Distrito Federal en Materia de Espectaculos Masivos y Deportivos,9CC6DE10,safe,MATCH: 9CC6DE10
+298E1252_60,Reglamento de Construcciones vigente en la Ciudad de México y sus Normas Técnicas Complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+298E1252_64,Reglamento del Espectáculo que corresponda,Reglamento de la Ley para la Celebracion de Espectaculos Publicos del Distrito Federal en Materia de Espectaculos Masivos y Deportivos,9CC6DE10,safe,MATCH: 9CC6DE10
+298E1252_67,Reglamento de la disciplina deportiva que se trate,Reglamento de la Ley de Educacion Fisica y Deporte del Distrito Federal,66878C98,safe,MATCH: 66878C98
+298E1252_75,Reglamento de la materia,,,no_match,NO_MATCH
+0A60CDC9_4,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+0A60CDC9_32,Reglamento para la Protección a los No Fumadores en el Distrito Federal,Reglamento de la Ley de Proteccion a la Salud de los no Fumadores en el Distrito Federal,1D958C03,safe,MATCH: 1D958C03
+A178085C_3,Reglamento de la Ley que Establece el Derecho a recibir información para la Prevención de Enfermedades Bucodentale,"Reglamento de la Ley que Establece el Derecho a Recibir Informacion para la Prevencion de Enfermedades Bucodentales, ademas de un Paquete de Salud Bucodental por Ciclo Escolar para todos los Alumnos Residentes e Inscritos en Escuelas Publicas de los Niveles Preescolar y Primaria en la Ciudad de Mexico",A178085C,safe,MATCH: A178085C
+E9B771EC_8,reglamento de la Comisión y los temas a tratar,,,no_match,NO_MATCH
+3073B993_2,"Reglamento de la Ley que establece el derecho a contar con una Beca para los Jóvenes
+Residentes en el Distrito Fed","Reglamento de la Ley que Establece el Derecho a Contar con una Beca para los Jovenes Residentes en el Distrito FederaL, que Estudien en los Planteles de Educacion Media Superior del Gobierno del Distrito Federal",3073B993,safe,MATCH: 3073B993
+3073B993_3,"REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS
+JÓVENES RESIDENTES EN EL DISTRITO FED","Reglamento de la Ley que Establece el Derecho a Contar con una Beca para los Jovenes Residentes en el Distrito FederaL, que Estudien en los Planteles de Educacion Media Superior del Gobierno del Distrito Federal",3073B993,safe,MATCH: 3073B993
+3073B993_15,"REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS
+JÓVENES RESIDENTES EN EL DISTRITO FED","Reglamento de la Ley que Establece el Derecho a Contar con una Beca para los Jovenes Residentes en el Distrito FederaL, que Estudien en los Planteles de Educacion Media Superior del Gobierno del Distrito Federal",3073B993,safe,MATCH: 3073B993
+3073B993_23,"REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A CONTAR CON UNA BECA PARA LOS
+JÓVENES RESIDENTES EN EL DISTRITO FED","Reglamento de la Ley que Establece el Derecho a Contar con una Beca para los Jovenes Residentes en el Distrito FederaL, que Estudien en los Planteles de Educacion Media Superior del Gobierno del Distrito Federal",3073B993,safe,MATCH: 3073B993
+56C2ACF9_2,Reglamento de la Ley de Justicia para Adolescentes para el Distrito Federal en materia de Ejecución de Medidas y C,Reglamento de la Ley de Justicia para Adolecentes para el Distrito Federal en Materia de Ejecucion de Medidas y Centros Especializados para Adolecentes,56C2ACF9,safe,MATCH: 56C2ACF9
+926E4541_28,Reglamento de la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones locales apli,Reglamento de Escalafon de los Trabajadores de Base de la Administracion Publica del Distrito Federal,6A61C2CC,safe,MATCH: 6A61C2CC
+1786AC42_2,Reglamento de que Regula el Uso de de los Cuerpos de Seguridad Pública del Distrito Federal,Reglamento de la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Publica del Distrito Federal,1786AC42,safe,MATCH: 1786AC42
+55FBF591_2,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_5,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_6,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_6,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_6,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_7,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_11,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_16,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_20,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_21,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_22,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_23,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_26,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_27,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_29,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_29,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_30,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_31,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_33,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_36,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_39,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_41,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_42,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_43,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_45,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_47,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_49,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_49,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_49,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_53,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_55,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_56,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_57,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_58,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_60,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_61,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_63,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_65,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_66,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_68,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_69,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_70,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_71,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_72,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_73,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_75,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_77,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_78,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_78,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_79,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_82,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_82,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_83,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_84,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_84,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_85,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_86,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_86,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_87,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_88,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_88,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_92,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_95,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_100,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_107,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_112,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_117,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_120,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_124,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_127,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_129,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_135,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+55FBF591_137,"REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA
+GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
+CONSEJERÍA JURÍDICA Y DE",Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+BF99723E_2,Reglamento de la Ley General,Reglamento de la Ley General de Turismo,761B96F3,safe,MATCH: 761B96F3
+BF99723E_2,Reglamento de la Ley de Víctimas para la ciudad de México,Reglamento la Ley de Victimas para la Ciudad de Mexico,BF99723E,safe,MATCH: BF99723E
+BF99723E_2,Reglamento para tal efecto,,,no_match,NO_MATCH
+BF99723E_7,Reglamento de la Ley General,Reglamento de la Ley General de Turismo,761B96F3,safe,MATCH: 761B96F3
+0565BA1A_2,Reglamento de la Ley de Austeridad,"Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de Mexico",D1B350E3,safe,MATCH: D1B350E3
+4366FEBF_13,Reglamento de la misma Ley,,,no_match,NO_MATCH
+D26A0A36_77,Reglamento de la Agencia establecerá,Reglamento de la Agencia de Proteccion Sanitaria del Gobierno de la Ciudad de Mexico,CDA77D5A,safe,MATCH: CDA77D5A
+C898E859_48,Reglamento de Verificación Administrativa del ámbito local,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+807464C1_2,Reglamento de la Ley Filmaciones del Distrito Federal,Reglamento de la Ley de Filmaciones del Distrito Federal,807464C1,safe,MATCH: 807464C1
+D1B350E3_182,Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México,,,no_match,NO_MATCH
+D1B350E3_182,Reglamento de la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México,,,no_match,NO_MATCH
+91D4E6C7_12,Reglamento de Construcciones,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+91D4E6C7_17,Reglamento de Construcciones vigentes en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+78F63ACE_36,reglamento de la Comisión y los temas a tratar,,,no_match,NO_MATCH
+B598BEAE_29,Reglamento de Construcciones vigente en la Ciudad de México y sus Normas Técnicas Complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B598BEAE_29,Reglamento de Construcciones y Normas Técnicas Complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+AAC60D93_2,Reglamento de para por de los Servicios Ambientales del Suelo de Conservación del Distrito Federal,Reglamento de la Ley para la Retribucion por la Proteccion de los Servicios Ambientales del Suelo de Conservacion del Distrito Federal,AAC60D93,safe,MATCH: AAC60D93
+4475B197_4,Reglamento de la Ley de Firma Electrónica para el Distrito Federal,"Reglamento de la Ley de Firma Electronica para el Distrito Federal en Actos, Procedimientos y Tramites a Cargo de la Administracion Publica del Distrito Federal",4475B197,safe,MATCH: 4475B197
+C9E1800E_2,Reglamento de la Ley de Interculturalidad,Reglamento de la Ley de Interculturalidad Atencion a Migrantes y Movilidad Humana en el Distrito Federal,C24F3487,safe,MATCH: C24F3487
+C9E1800E_12,reglamento de la Ley establecerá las formas y criterios para el acceso a estos programas,,,no_match,NO_MATCH
+6B27E62A_2,Reglamento de la Ley de Austeridad,"Reglamento de la Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de Mexico",D1B350E3,safe,MATCH: D1B350E3
+0A1E629F_3,reglamento del Consejo Consultivo del Instituto de las Mujeres del Distrito Federal,Reglamento del Consejo Consultivo Ciudadano del Instituto de las Mujeres del Distrito Federal,0A1E629F,safe,MATCH: 0A1E629F
+2911478C_3,Reglamento de la Ley del Instituto de Verificación Administrativa de la Ciudad de México,,,no_match,NO_MATCH
+2911478C_13,Reglamento de la Ley se establecerán los requisitos mínimos que en cada etapa del procedimiento deben cumplirse,,,no_match,NO_MATCH
+AA378A25_6,Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral de la,Reglamento para el Tramite y Sustanciacion de Quejas y Procedimientos de Investigacion del Instituto Electoral de la Ciudad de Mexico,AA378A25,safe,MATCH: AA378A25
+BF2515FB_4,Reglamento de la Ley de Publicidad Exterior en la Ciudad de México,Reglamento de la Ley de Publicidad Exterior de la Ciudad de Mexico,78266F48,safe,MATCH: 78266F48
+BF2515FB_8,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+BF2515FB_9,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+BF2515FB_42,Reglamento de Construcciones vigente en la Ciudad de México correspondiente,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+990D57BF_7,Reglamento para prevenir y controlar las contingencias ambientales y emergencias ecológicas,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+990D57BF_9,Reglamento para prevenir y controlar contingencias ambientales derivadas de las emisiones contaminantes generadas po,Reglamento de Impacto Ambiental y Riesgo,B848E072,safe,MATCH: B848E072
+990D57BF_32,Reglamento de Tránsito para el Distrito Federal,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+990D57BF_34,Reglamento para prevenir y controlar contingencias ambientales y emergencias ecológicas,Reglamento de la Ley de Gestion Integral de Riesgos y Proteccion Civil de la Ciudad de Mexico,D61F4C69,safe,MATCH: D61F4C69
+5B0B6BFB_12,Reglamento de Construcciones del Distrito Federal y las demás disposiciones jurídicas y administrativas que result,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+5B0B6BFB_29,Reglamento de Tránsito Metropolitano,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+EB5F4907_97,Reglamento de Integración y Operación del Comité de Transparencia de la Comisión de Derechos Humanos del Distrito,Reglamento Interno de la Comision de Derechos Humanos de la Ciudad de Mexico,E0A07F07,safe,MATCH: E0A07F07
+B6DF65EC_2,reglamento de la ley se establecerán los procedimientos,,,no_match,NO_MATCH
+B6DF65EC_10,Reglamento de Construcciones y las normas técnicas complementarias para el proyecto arquitectónico del Reglamento,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B6DF65EC_30,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+B6DF65EC_31,Reglamento de Construcciones vigente para la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B6DF65EC_31BIS,Reglamento de Construcciones vigente para la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B6DF65EC_34,Reglamento de la Ley de Establecimientos Mercantiles vigente en la Ciudad de México,Reglamento de la Ley de Establecimientos Mercantiles para la Ciudad de Mexico,7566EC96,safe,MATCH: 7566EC96
+B6DF65EC_59,Reglamento de Verificación Administrativa,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+2827D88F_3,Reglamento de la Ley General,Reglamento de la Ley General de Turismo,761B96F3,safe,MATCH: 761B96F3
+2827D88F_56,reglamento de la materia,,,no_match,NO_MATCH
+2827D88F_59,Reglamento de la Ley General,Reglamento de la Ley General de Turismo,761B96F3,safe,MATCH: 761B96F3
+C0A06B26_2,Reglamento de Protección de Datos,,,no_match,NO_MATCH
+C0A06B26_2,Reglamento del Instituto Electoral de la Ciudad de México en materia de Protección de Datos Personales,,,no_match,NO_MATCH
+C0A06B26_76,Reglamento de Protección de Datos del Instituto Electoral,,,no_match,NO_MATCH
+87EDE287_120,Reglamento de Tránsito Metropolitano,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+87EDE287_227,Reglamento de la Ley General en Materia de Protección Social en Salud,Reglamento de la Ley General de Salud en Materia de Proteccion Social en Salud,AC608F11,safe,MATCH: AC608F11
+87EDE287_321,Reglamento de Insumos para la salud,,,no_match,NO_MATCH
+87EDE287_343,Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Publicidad,"Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios",0391446D,safe,MATCH: 0391446D
+0608221F_4,Reglamento para el Funcionamiento Interno de los Órganos de Representación previstos en la Ley de Participación Ciud,Reglamento para el Funcionamiento Interno de los Organos de Representacion Previstos en la Ley de Participacion Ciudadana de la Ciudad de Mexico,0608221F,safe,MATCH: 0608221F
+35C270ED_619D,Reglamento de arbitraje de la UNCITRAL,,,no_match,NO_MATCH
+6A61C2CC_22,Reglamento de Escalafón que sean necesarias para el mejor funcionamiento de la Comisión,Reglamento de Escalafon de los Trabajadores de Base de la Administracion Publica del Distrito Federal,6A61C2CC,safe,MATCH: 6A61C2CC
+2DC6EAD9_2,Reglamento de la Ley de Salud Mental del Distrito Federal,Reglamento de la Ley de Salud Mental para el Distrito Federal,2DC6EAD9,safe,MATCH: 2DC6EAD9
+9DCF2D5E_2,Reglamento de la Ley de Desarrollo Agropecuario,"Reglamento de la Ley de Desarrollo Agropecuario, Rural y Sustentable del Distrito Federal",F539C40E,safe,MATCH: F539C40E
+0D48B582_3,Reglamento de Tránsito de la Ciudad de la Ciudad de México,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+0D48B582_23,Reglamento de Tránsito y demás normativa aplicable,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+0D48B582_37,Reglamento de Tránsito pendientes de cumplimiento,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+0D48B582_64,Reglamento de Tránsito vigente y,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+7F6D0F4B_2,Reglamento de la Ley que Establece el Derecho a la Pensión Alimentaria para los Adultos Mayores de setenta años re,Reglamento de la Ley que Establece el Derecho a la Pension Alimentaria para los Adultos Mayores de Sesenta y Ocho Anos Residentes en el Distrito Federal,7F6D0F4B,safe,MATCH: 7F6D0F4B
+AF912A55_29,Reglamento del Consejo así como en la Convocatoria que para tales efectos se emita,,,no_match,NO_MATCH
+325CA4D7_58BIS,Reglamento de verificación administrativa y demás disposiciones aplicables,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+CE7E985D_76,Reglamento de Verificación Administrativa para el Distrito Federal y demás disposiciones jurídicas aplicables en l,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+B517CD98_9,Reglamento de Cementerios,"Reglamento de Cementerios, Crematorios y Servicios Funerarios en la Ciudad de Mexico",B517CD98,safe,MATCH: B517CD98
+B517CD98_68,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_71,Reglamento de Construcciones vigente en la Ciudad de México y demás disposiciones aplicables,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_76,Reglamento de Construcciones vigente en la Ciudad y demás disposiciones aplicables,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_80,Reglamento de Construcciones vigente en la Ciudad,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_85,Reglamento de Construcciones vigente en la Ciudad y la Agencia de Protección Sanitaria,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_88,Reglamento de Construcciones vigente en la Ciudad,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+B517CD98_89,Reglamento de Construcciones vigente en la Ciudad y el visto bueno de la Secretaría de Obras y Servicios,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+CAE5580D_3,Reglamento de la Ley del Sistema Integral de Derechos Humanos de la Ciudad de México,,,no_match,NO_MATCH
+F4E0870D_8,reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal establecerá las unidades,Reglamento de la Ley Organica de la Procuraduria General de Justicia del Distrito Federal,55FBF591,safe,MATCH: 55FBF591
+71029770_3,Reglamento de la Ley de Seguridad Privada para la Ciudad de México,Reglamento de la Ley de Seguridad Privada para el Distrito Federal,E0644EAF,safe,MATCH: E0644EAF
+FFE8242A_17,Reglamento de sesiones y demás normativa necesaria para el cumplimiento del objeto de la presente Ley,,,no_match,NO_MATCH
+78266F48_46,Reglamento de Construcciones vigente para la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+78266F48_55,Reglamento para el Ordenamiento del Paisaje Urbano vigente en la Ciudad de México,Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal,44EE672D,safe,MATCH: 44EE672D
+78266F48_79,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+02A1EB95_22,Reglamento de las Instituciones de Cuidados Alternativos,,,no_match,NO_MATCH
+CDE08356_4,Reglamento de Fiscalización del Instituto Nacional Electoral,Reglamento de Fiscalizacion del Instituto Electoral de la Ciudad de Mexico,5A23E031,safe,MATCH: 5A23E031
+CDE08356_4,Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales de la Ciudad de México,Reglamento de Fiscalizacion del Instituto Electoral de la Ciudad de Mexico,5A23E031,safe,MATCH: 5A23E031
+E8F2DF9A_81,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF
+E8F2DF9A_105,Reglamento para el Servicio Público de Limpia en el Distrito Federal,,,no_match,NO_MATCH
+0838354E_25,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+0838354E_41,Reglamento de cada asociación deportiva,,,no_match,NO_MATCH
+0838354E_58,Reglamento de la materia que corresponda al tipo de Espectáculo público de que se trate,Reglamento de la Ley para la Celebracion de Espectaculos Publicos del Distrito Federal en Materia de Espectaculos Masivos y Deportivos,9CC6DE10,safe,MATCH: 9CC6DE10
+0838354E_60,Reglamento de Construcciones vigente en la Ciudad de México y sus Normas Técnicas Complementarias,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+0838354E_64,Reglamento del Espectáculo que corresponda,Reglamento de la Ley para la Celebracion de Espectaculos Publicos del Distrito Federal en Materia de Espectaculos Masivos y Deportivos,9CC6DE10,safe,MATCH: 9CC6DE10
+0838354E_67,Reglamento de la disciplina deportiva que se trate,Reglamento de la Ley de Educacion Fisica y Deporte del Distrito Federal,66878C98,safe,MATCH: 66878C98
+0838354E_75,Reglamento de la materia,,,no_match,NO_MATCH
+88D533C3_19,reglamento de sesiones y sus respectivas reformas y presentarlo al Consejo de Administración,,,no_match,NO_MATCH
+0FC021B6_14BIS,reglamento de construcciones de la Ciudad de México y no se cumpla con ella,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+0FC021B6_105BIS,Reglamento de la Ley del Instituto de Verificación Administrativa de la Ciudad de México,,,no_match,NO_MATCH
+381DBA28_37,Reglamento de sesiones de la Junta de Gobierno,,,no_match,NO_MATCH
+381DBA28_37,Reglamento de la Asamblea Consultiva,,,no_match,NO_MATCH
+381DBA28_39,Reglamento de la propia Asamblea Consultiva,,,no_match,NO_MATCH
+381DBA28_40,reglamento de sesiones del Consejo,,,no_match,NO_MATCH
+381DBA28_40,Reglamento de la Asamblea Consultiva,,,no_match,NO_MATCH
+381DBA28_47,Reglamento de la Asamblea Consultiva,,,no_match,NO_MATCH
+381DBA28_49,Reglamento de la Asamblea Consultiva,,,no_match,NO_MATCH
+6D963B8E_40,Reglamento de Tránsito vigente y demás ordenamientos jurídicos que regulan dicha materia,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+6D963B8E_40,Reglamento de Tránsito vigente y demás disposiciones jurídicas que en materia de movilidad le correspondan,Reglamento de la Ley de Movilidad de la Ciudad de Mexico,C22DAF01,safe,MATCH: C22DAF01
+6D963B8E_40,Reglamento de Tránsito vigente y demás disposiciones jurídicas en materia de Movilidad,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+92EE34C3_3,Reglamento para su Gobierno Interior,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+92EE34C3_7,Reglamento para el Gobierno Interior de del Distrito Federal,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+92EE34C3_12,Reglamento para el Gobierno Interior de la Asamblea Legislativa,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+92EE34C3_25,Reglamento para el Gobierno Interior de del Distrito Federal,Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal,62CDA32A,safe,MATCH: 62CDA32A
+0C17331C_2,Reglamento de la Ley de Apoyo a la Procuración de Justicia en el Distrito Federal,Reglamento de la Ley del Fondo de Apoyo a la Procuracion de Justicia en el Distrito Federal,0C17331C,safe,MATCH: 0C17331C
+8CDA7AB3_2,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+8CDA7AB3_20BIS,Reglamento de Construcciones vigente en la Ciudad de México,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+AB78FCA2_3,Reglamento de la Ley Ambiental de Protección a la Tierra en el Distrito Federal,Reglamento de la Ley Ambiental de Proteccion a la Tierra en el Distrito Federal en Materia de Verificacion Vehicular,AB78FCA2,safe,MATCH: AB78FCA2
+F9FCCF5E_13,reglamento de comportamiento para las personas integrantes de sus grupos de animación,,,no_match,NO_MATCH
+A4DE831B_4,Reglamento de la Ley de Aguas del Distrito Federal,,,no_match,NO_MATCH
+A4DE831B_120,Reglamento de éste ordenamiento,,,no_match,NO_MATCH
+A4DE831B_125BIS,Reglamento de la Ley de Aguas del Distrito Federal,,,no_match,NO_MATCH
+B9F4888D_3,Reglamento de Tránsito en el Distrito Federal,Reglamento de Transito de la Ciudad de Mexico,057212A0,safe,MATCH: 057212A0
+B9F4888D_3,Reglamento de las Construcciones y de los Servicios Urbanos en el Distrito Federal,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+1665BC54_25,Reglamento para regular la operación del Comité,,,no_match,NO_MATCH
+AF96B37C_6,Reglamento de la Ley de Salud de la Ciudad de México,Reglamento de la Ley de Salud del Distrito Federal,87EDE287,safe,MATCH: 87EDE287
+AF96B37C_110,Reglamento de la Ley General de Salud en Materia de Investigación para Salud,Reglamento de la Ley General de Salud en Materia de Investigacion para la Salud,F1607746,safe,MATCH: F1607746
+81B02B58_154,Reglamento de Construcciones del Distrito Federal y en los Programas ambientales y de desarrollo urbano vigentes,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+81B02B58_154,Reglamento de Construcciones del Distrito Federal o los programas ambientales y de desarrollo urbano vigentes,Reglamento de Construcciones para el Distrito Federal,44022C97,safe,MATCH: 44022C97
+D73158BE_29,Reglamento del Servicio de Agua y Drenaje para el Distrito Federal y las normas oficiales,,,no_match,NO_MATCH
+D73158BE_101,Reglamento de Verificación Administrativa para el Distrito Federal,Reglamento de Verificacion Administrativa del Distrito Federal,6D6F29EF,safe,MATCH: 6D6F29EF

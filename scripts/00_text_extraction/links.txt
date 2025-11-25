@@ -1,0 +1,16 @@
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/constitucion
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?limitstart=0
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=27
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=54
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=81
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=108
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=135
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes?start=162
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos?start=27
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos?start=54
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos?start=81
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos?start=108
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/reglamentos?start=135
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos
+https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos?start=7 
